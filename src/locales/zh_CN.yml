@@ -1,0 +1,6 @@
+ext:
+  name: 'PopTab: 打开新窗口'
+  desc: '弹出当前标签页到新窗口'
+menu:
+  newWindow: '移动到新窗口'
+  newIncognito: '在匿名窗口打开'

@@ -1,0 +1,6 @@
+ext:
+  name: 'PopTab'
+  desc: 'Pop the current tab out to a new window'
+menu:
+  newWindow: 'Move to new window'
+  newIncognito: 'Open in incognito window'
